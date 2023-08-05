@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 nose = "*"
+sklearn = "*"
+numpy = "*"
+scikit-learn = "*"
 
 [dev-packages]
 ipykernel = "*"
